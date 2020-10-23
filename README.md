@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on some shit
+- 🌱 I’m currently learning Tensorflow
+
+
 <!--
 **volsn/volsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
