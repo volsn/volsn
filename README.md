@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my portfolio
+- 🔭 I’m currently working on Vehicle Detection project 
 - 🌱 I’m currently learning Tensorflow
 
 
