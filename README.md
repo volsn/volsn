@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Vehicle Detection project 
-- 🌱 I’m currently learning Tensorflow
+- 🌱 I’m currently learning TensorFlow
 
 - 🚀 Skills
 <p align='center'>
