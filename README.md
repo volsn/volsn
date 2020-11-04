@@ -3,10 +3,8 @@
 - 🔭 I’m currently working on Vehicle Detection project 
 - 🌱 I’m currently learning TensorFlow
 - ⚡ Fun fact: I study at NURE
-
-- 🚀 Skills
+- 🚀 My main skills are
 <p align='center'>
-
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/tensorflow-%23FA7343.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/keras%20-%23DD0031.svg?&style=for-the-badge&logo=keras&logoColor=white" />
