@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on Vehicle Detection project 
 - 🌱 I’m currently learning TensorFlow
+- ⚡ Fun fact: I study at NURE
 
 - 🚀 Skills
 <p align='center'>
