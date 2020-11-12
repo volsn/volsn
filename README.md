@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Vehicle Detection project 
+- 🔭 I’m currently working on ANPR project 
 - 🌱 I’m currently learning TensorFlow
 - ⚡ Fun fact: I study at NURE
 - 🚀 My main skills are
